@@ -27,7 +27,7 @@ pada saat program dijalankan, user disuruh membuat nama dan luas garasi oleh pro
 ![Menginput mobil](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/3d30f378-4bf3-4b42-8daf-86b69e519b62)
 ![Menginput motor](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/3ef75e67-6807-459c-8f86-7ebc697180b6)
 
-jika user memilih 1 bisa membuat antara motor atau mobil yang akan dibuat, user akan meninput mulai dari merk hingga tahun (jenis dan tangki khusus motor sedangkan pintu dan kursi khusus mobil)
+jika user memilih 1, user bisa membuat antara motor atau mobil yang akan dibuat dari yang user pilih dari opsi menu tersebut, user akan menginput mulai dari merk hingga tahun (jenis dan tangki khusus motor sedangkan pintu dan kursi khusus mobil)
 
 3. Menampilkan kendaraan
 
