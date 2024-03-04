@@ -12,4 +12,6 @@ Program ini dirancang/didesain untuk mengelola pembuatan kendaraan. diimplementa
 # Alur #
 pada saat program dijalankan, program akan membuat produk kendaraan kosong, lalu user akan diperlihatkan sebuah menu yang terdapat opsi yang bisa berinteraksi dengan program dan user bisa menambahkan kendaraan (mobil atau motor), mengubah data kendaraan, hapus kendaraan dan hingga menampilkan data kendaraan. program akan terus berjalan selama user tidak memilih untuk keluar.
 
+# Dokumentasi #
 
+1. Menambah kendaraan (mobil dan motor)
