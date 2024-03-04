@@ -15,6 +15,7 @@ pada saat program dijalankan, program akan membuat produk kendaraan kosong, lalu
 # Dokumentasi #
 
 1. membuat garasi dan opsi menu
+
 ![Membuat garasi](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/683709bf-1959-493d-a61b-0a171b2e7df1)
 
 pada saat program dijalankan, user disuruh membuat nama dan luas garasi oleh program dan ketika sudah di input, maka akan menampilkan 5 opsi menu. Kapasitas garasi tergantung dari luas garasi.
@@ -22,28 +23,33 @@ pada saat program dijalankan, user disuruh membuat nama dan luas garasi oleh pro
 
 
 2. Menambah kendaraan (mobil dan motor)
+
 ![Menginput mobil](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/3d30f378-4bf3-4b42-8daf-86b69e519b62)
 ![Menginput motor](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/3ef75e67-6807-459c-8f86-7ebc697180b6)
 
 jika user memilih 1 bisa membuat antara motor atau mobil yang akan dibuat, user akan meninput mulai dari merk hingga tahun (jenis dan tangki khusus motor sedangkan pintu dan kursi khusus mobil)
 
 3. Menampilkan kendaraan
+
 ![Menampilkan kendaraan yang sudah dibuat](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/36eca95c-1839-4389-b8fd-670c7471c478)
 
 ketika user sudah membuat kendaraan, maka user bisa melihat ketika memilih opsi 4 yang dimana itu akan menampilkan data kendaraan yang sudah dibuat oleh user.
 
 4. Edit kendaraan
+
 ![Edit Plat](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/fa5ebf2a-ebb8-4b92-8d06-8cdb458f0c59)
 ![Edit merk dan warna](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/cb9cff6b-524c-4831-9fe9-70168397b4be)
 ![Menampilkan kendaraan yang sudah di edit](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/03d758de-5ba7-49c2-b291-be0430fad5d9)
 ketika user memilih untuk fitur edit, maka user akan diperlihatkan 3 edit yaitu, edit merk,plat, dan warna yang dimana membutuhkan plat kendaraan dari plat user input (kendaraan yang sudah ada)
 
-5. Hapus kendaraan
+6. Hapus kendaraan
+
 ![Hapus kendaraan](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/64042e18-7f76-40e8-8247-e249165cb9f6)
 
 user bisa menghapus kendaraan dari plat yang user input.
 
 6. Keluar dari program
+
 ![Keluar dari program](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/64fc8e43-9574-4b7a-94a9-da309244c0df)
 
 jika user memilih 5 maka program akan berhenti dan user akan keluar dari program tersebut
