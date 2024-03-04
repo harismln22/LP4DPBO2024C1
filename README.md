@@ -38,8 +38,11 @@ ketika user sudah membuat kendaraan, maka user bisa melihat ketika memilih opsi 
 4. Edit kendaraan
 
 ![Edit Plat](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/fa5ebf2a-ebb8-4b92-8d06-8cdb458f0c59)
+
 ![Edit merk dan warna](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/cb9cff6b-524c-4831-9fe9-70168397b4be)
+
 ![Menampilkan kendaraan yang sudah di edit](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/03d758de-5ba7-49c2-b291-be0430fad5d9)
+
 ketika user memilih untuk fitur edit, maka user akan diperlihatkan 3 edit yaitu, edit merk,plat, dan warna yang dimana membutuhkan plat kendaraan dari plat user input (kendaraan yang sudah ada)
 
 6. Hapus kendaraan
