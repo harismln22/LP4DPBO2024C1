@@ -1,4 +1,4 @@
-![Edit Plat](https://github.com/harismln22/LP4DPBO2024C1/assets/159020670/c13d5a2f-9138-4d0c-8317-4b2d2e9854b3)# JANJI #
+# JANJI #
 Saya Haris Maulana [2209058] berjanji tidak akan curang dalam latihan soal 4 matkul DPBO demi keberkahannya
 
 # Diagram Desain #
